@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 30-11-2023
+### DATE: 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -69,8 +69,8 @@ After generating the gcode format then follow the these instruction as shown in 
 ![WhatsApp Image 2023-11-30 at 21 21 55_c795939a](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/dff6e02c-f052-4e3c-91aa-b687b9d2d9fa)
 
 
-### Name:P G KUSHALI
-### Register Number:23012804
+### Name: HARSHITHA V
+### Register Number: 212223230074
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
