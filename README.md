@@ -59,14 +59,10 @@ After generating the gcode format then follow the these instruction as shown in 
 6. Close the doors of the 3d printer.
 7. Open the file from the USB storage and select the Print option.
 
-## Input:
-
-![WhatsApp Image 2023-11-30 at 21 22 08_625d2a8d](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/733b360f-0024-4433-a6aa-62b7a72840b7)
-
 
 ### Output:
 
-![WhatsApp Image 2023-11-30 at 21 21 55_c795939a](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/dff6e02c-f052-4e3c-91aa-b687b9d2d9fa)
+![image](https://github.com/user-attachments/assets/3f2d9ec6-a731-474c-b14c-4d452acbe9f3)
 
 
 ### Name: HARSHITHA V
